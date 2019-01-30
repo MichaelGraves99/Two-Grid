@@ -1,0 +1,17 @@
+.bg-blue {
+  background: #3079AB;
+  color: white;
+}
+.box-color {
+  background: rgb(227, 230, 231);
+}
+.card-white {
+  background: white;
+  padding: 6vh;
+  box-shadow: 3px 3px 6px #723636;
+  border-radius: 4px;
+  margin: 2vh 2vw;
+}
+.body{
+  text-align: center;
+}
